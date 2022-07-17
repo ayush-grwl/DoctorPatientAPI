@@ -11,12 +11,12 @@
 7) springfox-swagger-ui -> For Documentating API on Swagger
 
 
-## Postman Collection URL
+### Postman Collection URL
 
 1) https://www.postman.com/collections/934b3a33d924117a3121 (It contains all the endpoints which can be viewed in JSON Viewer)
 
 
-## How to run the springboot application
+### How to run the springboot application
 
 1) Download the zip folder and open the Application in Spring Boot supported IDE
 
