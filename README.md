@@ -7,8 +7,8 @@
 3) mysql-connector-java -> Connector For Connecting MySQL DataBase
 4) spring-boot-starter-validation -> For Validating The Data At Server Side
 5) spring-boot-devtools -> For The Live Server, As Soon As We Do Changes In Our Application The Changes Are Reflected
-6) springfox-boot-starter -> For Swagger Documentation
-7) springfox-swagger-ui -> For Swagger Documentation
+6) springfox-boot-starter -> For Documentating API on Swagger
+7) springfox-swagger-ui -> For Documentating API on Swagger
 
 
 ## Postman Collection URL
