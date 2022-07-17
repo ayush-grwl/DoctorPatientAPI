@@ -18,7 +18,7 @@
 
 ### How to run the springboot application
 
-1) Download the zip folder and open the Application in Spring Boot supported IDE
+1) Download the zip folder and extract it and open the Application in Spring Boot supported IDE
 
 2) Change the DataBase configuration in Application.properties(src/main/resources) according to database used.
    a) Driver Class Name
