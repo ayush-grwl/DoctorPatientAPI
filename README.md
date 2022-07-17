@@ -21,10 +21,10 @@
 1) Download the zip folder and open the Application in Spring Boot supported IDE
 
 2) Change the DataBase configuration in Application.properties(src/main/resources) according to database used.
-   -> Driver Class Name
-   -> URL
-   -> Username
-   -> Password
-   -> Dialect
+   a) Driver Class Name
+   b) URL
+   c) Username
+   d) Password
+   e) Dialect
 
 3) Run the JavaAssignmentRestApiApplication.java(src/main/java/com/rest_api) as a Spring Boot App
