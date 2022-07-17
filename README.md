@@ -1,6 +1,6 @@
 # Java Backend API For Doctor And Patient
 
-## List of Libraries/Frameworks Used
+### List of Libraries/Frameworks Used
 
 1) spring-boot-starter-web -> For Creating Web Services
 2) spring-boot-starter-data-jpa -> For Connecting With Database
